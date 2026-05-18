@@ -118,6 +118,33 @@
             <mxPoint x="960" y="388.95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="I3ffdMRVS8gDNv7Roq-i-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=2;" value="FrontEnd (Web) Servers" vertex="1">
+          <mxGeometry height="40" width="111.64" x="428.36" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="I3ffdMRVS8gDNv7Roq-i-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=2;" value="Load Balancer" vertex="1">
+          <mxGeometry height="40" width="111.64" x="280" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="I3ffdMRVS8gDNv7Roq-i-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=2;" value="Load Balancer" vertex="1">
+          <mxGeometry height="40" width="111.64" x="569.77" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="I3ffdMRVS8gDNv7Roq-i-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=2;" value="Internet" vertex="1">
+          <mxGeometry height="40" width="111.64" x="150" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="I3ffdMRVS8gDNv7Roq-i-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=2;" value="Mobile App" vertex="1">
+          <mxGeometry height="40" width="111.64" x="10" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="I3ffdMRVS8gDNv7Roq-i-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=2;" value="End Users" vertex="1">
+          <mxGeometry height="40" width="111.64" x="10" y="111.53999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="I3ffdMRVS8gDNv7Roq-i-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=2;" value="BackEnd Servers" vertex="1">
+          <mxGeometry height="40" width="111.64" x="734.31" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="I3ffdMRVS8gDNv7Roq-i-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=2;" value="Databases" vertex="1">
+          <mxGeometry height="40" width="111.64" x="970" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="I3ffdMRVS8gDNv7Roq-i-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;rounded=0;strokeWidth=2;" value="S3 Buckets" vertex="1">
+          <mxGeometry height="40" width="111.64" x="962.97" y="71.54" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
